@@ -1,2 +1,3 @@
 This is first Commit.
-Commit for SampleComponent
+Commit for SampleComponent.
+Check the release code.
